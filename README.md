@@ -1,2 +1,4 @@
-# hello-world
-1st repo
+# Hello-World
+
+this is first github repo and testing of branching
+
